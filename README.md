@@ -1,22 +1,22 @@
-# Access to Drinking Water Analysis 🌍🚰
+# Access to Drinking Water Analysis
 
 A data exploration project aligned with **UN Sustainable Development Goal 6**, analyzing access to clean and affordable drinking water using 2020 WHO/UNICEF data.
 
-## 🔍 Project Summary
+## Project Summary
 This project dives into global inequalities in water service levels, exploring how access varies across national, urban, and rural populations. Analysis covers trends, data representation, income groups, and visualization insights — all done in **Google Sheets**.
 
-👉 [Read the full report](project_report.md)
+[Read the full report](project_report.md)
 
-## 📁 Project Structure
+## Project Structure
 - `data/` – Raw dataset (CSV)
 - `visuals/` – Charts and plots
 - `project_report.md` – Documentation
 
-## 🛠 Tools Used
+## Tools Used
 - Google Sheets
 - GitHub
 
-## 📊 Key Insights
+## Key Insights
 - High-income countries dominate basic water access.
 - Urban areas show greater parity than rural ones.
 - Population size, income group, and GNI show strong correlations with access levels.
